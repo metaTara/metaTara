@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @metaTara
 - 👀 I’m a freelance software developer
-- 🌱 I’m currently learning html/css/JS/React
+- 🌱 I’m currently learning Java, HTML/CSS/JS/React
 
 Some of my current projects are : 
 
